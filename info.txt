@@ -1,9 +1,0 @@
-A data set containing 1,157 baseball players.
-
-The variables describe as follows.
-
-handedness (right (R) or left (L) handed), 
-height (in inches), 
-weight (in pounds), 
-batting average, and 
-home runs (HR).

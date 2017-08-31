@@ -2,6 +2,6 @@
 
 # Please check follwong links for visualizations
 
-# https://public.tableau.com/profile/lasa6459#!/vizhome/IdentificationofdifferencesamongtheperformanceofthebaseballplayersusingTableau-afterfeedback_storyform/Storyfortheanalysis
+### [Tableau Story](https://public.tableau.com/profile/lasa6459#!/vizhome/IdentificationofdifferencesamongtheperformanceofthebaseballplayersusingTableau-afterfeedback_storyform/Storyfortheanalysis)
 
-# https://public.tableau.com/profile/lasa6459#!/vizhome/IdentificationofdifferencesamongtheperformanceofthebaseballplayersusingTableau-afterfeedback_storyform/Summary_dashboard
+### [Tableau Dashboard](https://public.tableau.com/profile/lasa6459#!/vizhome/IdentificationofdifferencesamongtheperformanceofthebaseballplayersusingTableau-afterfeedback_storyform/Summary_dashboard)
